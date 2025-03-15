@@ -87,6 +87,7 @@ add_executable(nori
   src/warp.cpp
   src/microfacet.cpp
   src/mirror.cpp
+  src/normals.cpp
   src/dielectric.cpp
 )
 
